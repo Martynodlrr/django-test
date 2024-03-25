@@ -1,0 +1,13 @@
+{
+  "name": "django-test",
+  "version": "1.0.0",
+  "description": "This project serves as a hands-on project to deepen my understanding of Django's implementation. It's an initiative to bridge theoretical knowledge with practical experience by working with Django's core functionalities and architectural patterns.",
+  "main": "manage.py",
+  "scripts": {
+    "start": "python manage.py runserver",
+    "test": "python manage.py test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
